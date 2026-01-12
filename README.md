@@ -12,18 +12,29 @@
 
 ---
 
-### 🔗 社交 & 联系方式 Get in Touch
-| 平台 | 链接 |
-|------|------|
-| 🌐 博客 | https://www.cnblogs.com/tiangesec |
-| X (Twitter) | [https://x.com/tiangesec](https://x.com/tiangesec) |
-| 🎥 YouTube | [https://www.youtube.com/@QuinnLandonZhong](https://www.youtube.com/@QuinnLandonZhong) |
-| 🐦 Bilibili | [https://space.bilibili.com/617633317](https://space.bilibili.com/617633317) |
-| 📫 邮箱 | tiangesec@qq.com |
+### Get in Touch
+📘 **博客 / Blog**  
+https://www.cnblogs.com/tiangesec  
+
+🐦 **X (Twitter)**  
+https://x.com/tiangesec  
+
+🎥 **YouTube**  
+https://www.youtube.com/@QuinnLandonZhong  
+
+📺 **Bilibili**  
+https://space.bilibili.com/617633317  
+
+💬 **QQ**  
+**18515757637**
+
+📫 **Email**  
+tiangesec@qq.com  
 
 ---
 
-![GitHub metrics](https://github-readme-stats.vercel.app/api?username=xxx252525&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxx252525&show_icons=true)
+
 
 ---
 
