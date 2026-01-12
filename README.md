@@ -26,8 +26,3 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxx252525&show_icons=true)
-
-
----
-
