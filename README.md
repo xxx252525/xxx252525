@@ -13,7 +13,6 @@
 ---
 
 ### Get in Touch
-📘 **博客 / Blog**  https://www.cnblogs.com/tiangesec  
 
 🐦 **X (Twitter)**  https://x.com/tiangesec  
 
