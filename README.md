@@ -1,5 +1,5 @@
-## Hi I'm XiaoQingYao 👋!
-大家好！我是小青瑶！
+## Hi I'm XiaoQingYao🍥🏳️‍⚧️!
+大家好！我是小青瑶🍥🏳️‍⚧️！
 
 03年的社会牛马 | 167cm/55kg | MTF | 别伤害我求保护 | 废物IT人 | 喜欢xnn＆xyn&xxy&可爱的男孩子 | 想变得好看可爱 | 不od不自残
 
@@ -31,18 +31,3 @@
 
 ---
 
-
-<!--
-**xxx252525/xxx252525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
