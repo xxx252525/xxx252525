@@ -13,23 +13,17 @@
 ---
 
 ### Get in Touch
-📘 **博客 / Blog**  
-https://www.cnblogs.com/tiangesec  
+📘 **博客 / Blog**  https://www.cnblogs.com/tiangesec  
 
-🐦 **X (Twitter)**  
-https://x.com/tiangesec  
+🐦 **X (Twitter)**  https://x.com/tiangesec  
 
-🎥 **YouTube**  
-https://www.youtube.com/@QuinnLandonZhong  
+🎥 **YouTube**  https://www.youtube.com/@QuinnLandonZhong  
 
-📺 **Bilibili**  
-https://space.bilibili.com/617633317  
+📺 **Bilibili**  https://space.bilibili.com/617633317  
 
-💬 **QQ**  
-**18515757637**
+💬 **QQ**  18515757637
 
-📫 **Email**  
-tiangesec@qq.com  
+📫 **Email**  tiangesec@qq.com  
 
 ---
 
