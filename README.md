@@ -1,5 +1,5 @@
-## Hi I'm XiaoQingYao🍥🏳️‍⚧️!
-大家好！我是小青瑶🍥🏳️‍⚧️！
+## Hi I'm XiaoQingYao🏳️‍⚧️!
+大家好！我是小青瑶🏳️‍⚧️！
 
 03年的社会牛马 | 167cm/55kg | MTF | 别伤害我求保护 | 废物IT人 | 喜欢xnn＆xyn&xxy&可爱的男孩子 | 想变得好看可爱 | 不od不自残
 
@@ -22,7 +22,7 @@
 
 📺 **Bilibili**  https://space.bilibili.com/617633317  
 
-💬 **QQ**  1072441436
+💬 **QQ**  保密
 
 📫 **Email**  tiangesec@qq.com  
 
